@@ -1,0 +1,39 @@
+# --- Downloaded datasets & checkpoints (see README) ---
+# Pretrained weights and benchmark scores (ours.tar.xz)
+rl-multiarms-model/ours/
+# Benchmark tasks (benchmark.tar.xz)
+rl-multiarms-model/benchmark/
+# Training tasks (tasks.tar.xz)
+rl-multiarms-model/tasks/
+# BiRRT expert demonstrations (expert.tar.xz)
+rl-multiarms-model/expert/
+*.tar.xz
+
+# Demo: benchmark download lives in tasks/benchmark/
+# (tasks/robot0-3 are part of the repo and stay tracked)
+rl-multiarms-model/demo/benchmark/
+rl-multiarms-model/demo/tasks/benchmark/
+
+# --- Generated outputs ---
+# Training logs / TensorBoard
+rl-multiarms-model/runs/
+# Demo results, Blender recordings and videos
+rl-multiarms-model/demo/results_*/
+rl-multiarms-model/demo/simulation_*/
+rl-multiarms-model/demo/videos_*/
+# Dynamic benchmark scores
+*_dynamic_benchmark_score.pkl
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- MATLAB ---
+*.asv
+*.mex*
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
