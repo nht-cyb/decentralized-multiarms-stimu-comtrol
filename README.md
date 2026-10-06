@@ -159,9 +159,11 @@ Success drops a little as the team grows, mostly because of how success is defin
 
 ### Pick-and-place
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| ![](Results/grab-drop-objects-operation/demo-10.gif) | ![](Results/grab-drop-objects-operation/demo-21.gif) | ![](Results/grab-drop-objects-operation/demo-27.gif) | ![](Results/grab-drop-objects-operation/demo-28.gif) |
+| Demo 10 | Demo 21 |
+|:--:|:--:|
+| ![](Results/grab-drop-objects-operation/demo-10.gif) | ![](Results/grab-drop-objects-operation/demo-21.gif) |
+| **Demo 27** | **Demo 28** |
+| ![](Results/grab-drop-objects-operation/demo-27.gif) | ![](Results/grab-drop-objects-operation/demo-28.gif) |
 
 ## Report
 
