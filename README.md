@@ -133,9 +133,11 @@ The policy was trained on 1–4 arms only. The 5–10 arm rows test generalizati
 
 Success drops a little as the team grows, mostly because of how success is defined. All N arms must succeed, so if one arm succeeds with probability *p*, the team succeeds with roughly *p*ᴺ.
 
-| 2 arms | 3 arms (hard) | 4 arms | 6 arms | 7 arms (easy) | 8 arms (hard) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![](Results/number-of-robot/2-arm-e.gif) | ![](Results/number-of-robot/3-arms-hard.gif) | ![](Results/number-of-robot/4-arm-medium.gif) | ![](Results/number-of-robot/6-arm-medium.gif) | ![](Results/number-of-robot/7-arm-easy.gif) | ![](Results/number-of-robot/8-arm-hard.gif) |
+| 2 arms | 3 arms (hard) | 4 arms (medium) |
+|:--:|:--:|:--:|
+| ![](Results/number-of-robot/2-arm-e.gif) | ![](Results/number-of-robot/3-arms-hard.gif) | ![](Results/number-of-robot/4-arm-medium.gif) |
+| **6 arms (medium)** | **7 arms (easy)** | **8 arms (hard)** |
+| ![](Results/number-of-robot/6-arm-medium.gif) | ![](Results/number-of-robot/7-arm-easy.gif) | ![](Results/number-of-robot/8-arm-hard.gif) |
 
 ### Comparison with baselines
 
